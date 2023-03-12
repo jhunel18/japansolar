@@ -1,0 +1,176 @@
+div {
+	color: #507ebb;
+}
+div#monthly_data {
+    text-align: center;
+}
+h2#title {
+	text-align:left;
+	color: #085dad;
+}
+
+.con{
+    width: 100%;
+    height: auto;
+    background-color: #dfe3ee;
+    padding: 5px 0 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.l-con {
+    width: 100%;
+    height: auto;
+    background-color: #dfe3ee;
+    padding: 5px 0 15px 20px;
+    margin: 15px;
+    border-radius: 5px;
+    float: right;
+    margin-bottom: 40px;
+}
+.perkwh {
+	text-align: right;
+	background-color: #085dad;
+	color: #fff;
+	width: 80px;
+	padding: 0 5px 0 0;
+	border: none;
+}
+#item1 {
+	background-color: #085dad;
+	color: #fff;
+	border: none;
+	height: 25px;
+	float: right;
+	margin-right: 35px;
+	border-radius: 1px;
+}
+option {
+	color: #fff;
+}
+#system_size {
+	background-color: #085dad;
+	color: #fff;
+	border: none;
+	height: 20px;
+	width: 70px;
+	border-radius: 1px;
+}
+#result_total {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;
+	margin-right: 4px;
+	border-radius: 3px;
+}
+.r-side {
+	float: right;
+	margin-right: 35px;
+}
+.m-side {
+	float: right;
+	margin-right: 45%;	
+}
+.ct {
+	float: right;
+	margin-right: 35.5%;	
+	margin-top: 6px;	
+}
+.oc {
+	margin-top: 12px; 
+}
+.oc-side {
+	float: right;
+	margin-right: 41.8%;
+}
+#avoided_cost_monthly {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;
+	margin-right: 4px;
+	border-radius: 3px;
+
+}
+#approx_ss_output {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;
+	margin-right: 4px;	
+	border-radius: 3px;
+
+}
+#approx_roi_output {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;
+	margin-right: 4px;	
+	border-radius: 3px;
+
+}
+.graph {
+	border: 3px solid #dfe3ee;
+	width: 653px;
+	height: auto;
+	border-radius: 5px;
+}
+#total_reduction {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;
+	margin-right: 4px;	
+	border-radius: 3px;
+
+}
+#cedar_trees_display {
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;	
+	border-radius: 3px;
+
+}
+#oil_consumption_display{
+	border: 1px light;
+	padding: 3px 20px;
+	background-color: #8cc739;
+	color: #fff;	
+	border-radius: 3px;
+		
+}
+.logo {
+	text-align: center;
+}
+.menu ul {
+	margin-left: 60px;
+}
+.menu ul li {
+	list-style-type: none;
+	color: #000;
+	display: inline-block;
+}
+.menu a {
+	font-size: 20px;
+	margin: 15px;
+	color: #000;
+}
+.menu a:hover {
+	text-decoration:none;
+	transition: 0.5s;
+	
+}
+.menu {
+	margin: 45px;
+
+
+}
+.menu-wrap {
+	width:100%;
+	height:auto;
+	border-bottom: 2px solid #085dad;
+	margin-bottom: 3%;
+}
+	
